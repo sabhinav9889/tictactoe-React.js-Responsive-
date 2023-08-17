@@ -1,0 +1,15 @@
+.dv{
+  display: flex;
+  justify-content: center;
+}
+.mndiv{
+  left: 30rem;
+  top: 6rem;
+  cursor: pointer;
+  text-align: center;
+  align-items: center;
+}
+.winner{
+  font-size: 3.4rem;
+  color: yellow;
+}

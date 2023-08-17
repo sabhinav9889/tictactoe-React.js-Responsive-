@@ -1,0 +1,9 @@
+.refresh{
+    background-color: black;
+    color: yellow;
+    margin-top: 1.2rem;
+    border: 2px solid yellow;
+    border-radius: 2rem;
+    width: 7rem;
+    height: 2rem;
+}

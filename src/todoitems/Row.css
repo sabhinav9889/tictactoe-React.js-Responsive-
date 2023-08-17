@@ -1,0 +1,22 @@
+.spn{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    height: 10rem;
+    border: 2px solid black;
+    font-size: 5rem;    
+}
+@media screen and (min-width: 516px) {
+    .spn{
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 10rem;
+        height: 10rem;
+        border: 2px solid black;
+        font-size: 5rem;    
+    }
+}
