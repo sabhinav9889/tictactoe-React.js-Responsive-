@@ -11,7 +11,9 @@ function App() {
   const [isx, setX] = useState(0);
   const [win, setWin] = useState(null);
   function refreshPage() {
-    window.location.reload(false);
+    setvalue(Array(9).fill(null));
+    setX(0);
+    setWin(null);
   }
   function handleClick(index){
     if(value[index]) return;
